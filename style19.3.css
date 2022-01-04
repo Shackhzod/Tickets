@@ -1,0 +1,98 @@
+body{
+    background-color: #d3e0e6;
+}
+.card{
+    box-shadow: 0px 5px 8px rgba(
+        0,0,0,0.2);
+    position: relative;
+}
+.btn{
+    background-color: rgb(29, 221, 23);
+    color: white;
+    width: 40%;
+    border-radius: 20px;
+    margin-left: 50px;
+    position: relative;
+}
+.save{
+    width: 8%;
+    margin-left: 11px;
+    margin-top: 10px;
+    
+}
+.circle{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #dbdbdb;
+    position: absolute;
+    right: 65px;
+    top: 18px;
+}
+.user{
+    margin-right: 5px;
+}
+.phone{
+    margin-right: 5px;
+    color: gray;
+}
+.ml{
+    margin-left: 28px;
+}
+.payme{
+    color: #28dffb;
+    margin-left: 30px;
+}
+.card3{
+    padding: 1rem 0rem;
+}
+.card4{
+    padding: 1rem 0rem;
+}
+.span-gray{
+    color: gray;
+    font-size: 13px;
+}
+i{
+    margin-top: 2px;
+    color: gray;
+}
+.c1{
+    width: 28%;
+    display: flex;
+    justify-content:space-between;
+    margin-left: 68px;
+    margin-top: 28px;
+    font-size: 18px;
+}
+.check{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.rong{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.box1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #d3e0e6;
+    position: absolute;
+    right: -22px;
+    bottom: 25px;
+}
+.box2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #d3e0e6;
+    position: absolute;
+    right: -22px;
+    top: 25px;
+}
+
